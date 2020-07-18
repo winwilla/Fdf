@@ -66,11 +66,11 @@
 # define BPINK 0xFF1493
 # define CRED 0xFF4500
 # define CSEA 0x20B2AA
-# define DBLUE 0x73E5F1 
+# define DBLUE 0x73E5F1
 # define DYELLOW 0xFEE08B
 # define DGREEN	0x12792D
 # define DBROWN 0x8A2D1A
-# define DSEA 0x0334EC 
+# define DSEA 0x0334EC
 # define TYELLOW 0xC8A215
 
 /*
